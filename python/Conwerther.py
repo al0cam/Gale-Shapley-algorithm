@@ -13,3 +13,8 @@ def excelToJson(path, sheet=False):
         record = json.loads(record)
         funkyTown.append(record)
     return funkyTown
+
+
+def writeToJson(dictionary):
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(dictionary, f, ensure_ascii=False, indent=4)

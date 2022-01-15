@@ -6,18 +6,9 @@ from numpy import sort
 
 def createPriorityList(student, studentList):
         list = []
-        # list.append(
-        #     {
-        #         "prioritet": student.get("Prioritet"),
-        #         'studij': student.get("Diplomski studij"),
-        #         'sukladnost': student.get("Sukladnost"),
-        #         'ukupno': student.get("UKUPNO (prosjek x 100 + sukladnost)")
-        #     }
-        # )
+        
         for index, i in enumerate(studentList):
             if i['Redni broj'] == student.get('Redni broj'):
-                # print(indexOf(studentList, i))
-                # print(i)
                 list.append(
                     {
                         'prioritet': int(i.get("Prioritet")),

@@ -1,0 +1,736 @@
+{
+    "Agrobiznis i ruralni razvitak": [
+        {
+            "index": 0,
+            "student": 1298,
+            "points": 921.4
+        },
+        {
+            "index": 1,
+            "student": 976,
+            "points": 912.5
+        },
+        {
+            "index": 2,
+            "student": 1572,
+            "points": 909.4
+        },
+        {
+            "index": 3,
+            "student": 841,
+            "points": 903.1
+        },
+        {
+            "index": 4,
+            "student": 815,
+            "points": 881.3
+        },
+        {
+            "index": 5,
+            "student": 1612,
+            "points": 875.0
+        },
+        {
+            "index": 6,
+            "student": 1584,
+            "points": 872.7
+        },
+        {
+            "index": 7,
+            "student": 1703,
+            "points": 871.9
+        },
+        {
+            "index": 8,
+            "student": 1018,
+            "points": 857.6
+        },
+        {
+            "index": 9,
+            "student": 1773,
+            "points": 843.8
+        }
+    ],
+    "Agroekologija": [
+        {
+            "index": 0,
+            "student": 793,
+            "points": 932.3
+        },
+        {
+            "index": 1,
+            "student": 1098,
+            "points": 931.3
+        },
+        {
+            "index": 2,
+            "student": 1447,
+            "points": 919.4
+        },
+        {
+            "index": 3,
+            "student": 775,
+            "points": 909.7
+        },
+        {
+            "index": 4,
+            "student": 992,
+            "points": 877.4
+        },
+        {
+            "index": 5,
+            "student": 794,
+            "points": 858.1
+        },
+        {
+            "index": 6,
+            "student": 1337,
+            "points": 843.8
+        },
+        {
+            "index": 7,
+            "student": 1409,
+            "points": 829.0
+        },
+        {
+            "index": 8,
+            "student": 825,
+            "points": 825.8
+        },
+        {
+            "index": 9,
+            "student": 1364,
+            "points": 825.8
+        }
+    ],
+    "Biljne znanosti": [
+        {
+            "index": 0,
+            "student": 1461,
+            "points": 919.4
+        },
+        {
+            "index": 1,
+            "student": 742,
+            "points": 916.1
+        },
+        {
+            "index": 2,
+            "student": 1142,
+            "points": 912.9
+        },
+        {
+            "index": 3,
+            "student": 1182,
+            "points": 900.0
+        },
+        {
+            "index": 4,
+            "student": 1634,
+            "points": 883.9
+        },
+        {
+            "index": 5,
+            "student": 1019,
+            "points": 867.7
+        },
+        {
+            "index": 6,
+            "student": 1581,
+            "points": 841.9
+        }
+    ],
+    "Ekološka poljoprivreda i agroturizam": [
+        {
+            "index": 0,
+            "student": 843,
+            "points": 950.0
+        },
+        {
+            "index": 1,
+            "student": 765,
+            "points": 938.7
+        },
+        {
+            "index": 2,
+            "student": 862,
+            "points": 858.1
+        },
+        {
+            "index": 3,
+            "student": 1358,
+            "points": 851.6
+        },
+        {
+            "index": 4,
+            "student": 1679,
+            "points": 850.0
+        },
+        {
+            "index": 5,
+            "student": 947,
+            "points": 835.5
+        },
+        {
+            "index": 6,
+            "student": 1737,
+            "points": 832.3
+        },
+        {
+            "index": 7,
+            "student": 1052,
+            "points": 828.2
+        },
+        {
+            "index": 8,
+            "student": 906,
+            "points": 822.6
+        },
+        {
+            "index": 9,
+            "student": 1750,
+            "points": 819.4
+        }
+    ],
+    "Fitomedicina": [
+        {
+            "index": 0,
+            "student": 1094,
+            "points": 920.6
+        },
+        {
+            "index": 1,
+            "student": 971,
+            "points": 914.7
+        },
+        {
+            "index": 2,
+            "student": 972,
+            "points": 905.9
+        },
+        {
+            "index": 3,
+            "student": 1689,
+            "points": 897.1
+        },
+        {
+            "index": 4,
+            "student": 748,
+            "points": 891.2
+        },
+        {
+            "index": 5,
+            "student": 798,
+            "points": 867.6
+        },
+        {
+            "index": 6,
+            "student": 745,
+            "points": 862.9
+        },
+        {
+            "index": 7,
+            "student": 1487,
+            "points": 842.9
+        },
+        {
+            "index": 8,
+            "student": 951,
+            "points": 834.3
+        },
+        {
+            "index": 9,
+            "student": 1107,
+            "points": 832.4
+        }
+    ],
+    "Genetika i oplemenjivanje životinja": [
+        {
+            "index": 0,
+            "student": 849,
+            "points": 903.2
+        },
+        {
+            "index": 1,
+            "student": 1073,
+            "points": 840.6
+        },
+        {
+            "index": 2,
+            "student": 818,
+            "points": 840.6
+        },
+        {
+            "index": 3,
+            "student": 853,
+            "points": 727.0
+        }
+    ],
+    "Hranidba životinja i hrana": [
+        {
+            "index": 0,
+            "student": 1037,
+            "points": 902.8
+        },
+        {
+            "index": 1,
+            "student": 1389,
+            "points": 842.1
+        },
+        {
+            "index": 2,
+            "student": 1621,
+            "points": 837.1
+        },
+        {
+            "index": 3,
+            "student": 1047,
+            "points": 811.0
+        }
+    ],
+    "INTER-ENAGRO": [
+        {
+            "index": 0,
+            "student": 1920,
+            "points": 830.0
+        },
+        {
+            "index": 1,
+            "student": 1917,
+            "points": 800.0
+        }
+    ],
+    "Krajobrazna arhitektura": [
+        {
+            "index": 0,
+            "student": 1735,
+            "points": 1055.9
+        },
+        {
+            "index": 1,
+            "student": 1498,
+            "points": 1014.7
+        },
+        {
+            "index": 2,
+            "student": 819,
+            "points": 976.5
+        },
+        {
+            "index": 3,
+            "student": 1665,
+            "points": 970.6
+        },
+        {
+            "index": 4,
+            "student": 1772,
+            "points": 947.1
+        },
+        {
+            "index": 5,
+            "student": 1297,
+            "points": 941.2
+        },
+        {
+            "index": 6,
+            "student": 802,
+            "points": 939.4
+        },
+        {
+            "index": 7,
+            "student": 1347,
+            "points": 930.3
+        },
+        {
+            "index": 8,
+            "student": 1373,
+            "points": 905.9
+        },
+        {
+            "index": 9,
+            "student": 1217,
+            "points": 900.0
+        }
+    ],
+    "Mehanizacija": [
+        {
+            "index": 0,
+            "student": 1084,
+            "points": 846.9
+        },
+        {
+            "index": 1,
+            "student": 1801,
+            "points": 800.0
+        },
+        {
+            "index": 2,
+            "student": 885,
+            "points": 749.7
+        }
+    ],
+    "Melioracije": [
+        {
+            "index": 0,
+            "student": 1184,
+            "points": 903.2
+        },
+        {
+            "index": 1,
+            "student": 1065,
+            "points": 828.1
+        },
+        {
+            "index": 2,
+            "student": 1318,
+            "points": 820.0
+        },
+        {
+            "index": 3,
+            "student": 1230,
+            "points": 805.7
+        },
+        {
+            "index": 4,
+            "student": 1636,
+            "points": 794.3
+        }
+    ],
+    "Mikrobna biotehnologija u poljoprivredi": [
+        {
+            "index": 0,
+            "student": 1467,
+            "points": 958.1
+        },
+        {
+            "index": 1,
+            "student": 1325,
+            "points": 935.5
+        },
+        {
+            "index": 2,
+            "student": 746,
+            "points": 900.0
+        },
+        {
+            "index": 3,
+            "student": 797,
+            "points": 838.7
+        },
+        {
+            "index": 4,
+            "student": 1163,
+            "points": 831.3
+        },
+        {
+            "index": 5,
+            "student": 810,
+            "points": 829.0
+        },
+        {
+            "index": 6,
+            "student": 816,
+            "points": 828.1
+        },
+        {
+            "index": 7,
+            "student": 1304,
+            "points": 821.9
+        },
+        {
+            "index": 8,
+            "student": 1674,
+            "points": 796.8
+        },
+        {
+            "index": 9,
+            "student": 1322,
+            "points": 722.5
+        }
+    ],
+    "Obnovljivi izvori energije u poljoprivredi": [
+        {
+            "index": 0,
+            "student": 1499,
+            "points": 861.3
+        },
+        {
+            "index": 1,
+            "student": 744,
+            "points": 858.3
+        },
+        {
+            "index": 2,
+            "student": 869,
+            "points": 853.0
+        },
+        {
+            "index": 3,
+            "student": 1708,
+            "points": 851.6
+        },
+        {
+            "index": 4,
+            "student": 1710,
+            "points": 825.0
+        },
+        {
+            "index": 5,
+            "student": 1201,
+            "points": 818.8
+        },
+        {
+            "index": 6,
+            "student": 1288,
+            "points": 816.1
+        },
+        {
+            "index": 7,
+            "student": 1790,
+            "points": 726.5
+        },
+        {
+            "index": 8,
+            "student": 837,
+            "points": 712.9
+        }
+    ],
+    "Povrćarstvo": [
+        {
+            "index": 0,
+            "student": 1767,
+            "points": 896.9
+        },
+        {
+            "index": 1,
+            "student": 987,
+            "points": 861.3
+        }
+    ],
+    "Povrćarstvo, aromatično, ljekovito i ukrasno bilje": [
+        {
+            "index": 0,
+            "student": 1168,
+            "points": 916.7
+        },
+        {
+            "index": 1,
+            "student": 985,
+            "points": 889.2
+        },
+        {
+            "index": 2,
+            "student": 780,
+            "points": 719.4
+        }
+    ],
+    "Proizvodnja i prerada mesa": [
+        {
+            "index": 0,
+            "student": 832,
+            "points": 971.4
+        },
+        {
+            "index": 1,
+            "student": 1740,
+            "points": 954.3
+        },
+        {
+            "index": 2,
+            "student": 1450,
+            "points": 877.1
+        },
+        {
+            "index": 3,
+            "student": 1669,
+            "points": 875.0
+        },
+        {
+            "index": 4,
+            "student": 1371,
+            "points": 711.8
+        }
+    ],
+    "Proizvodnja i prerada mlijeka": [
+        {
+            "index": 0,
+            "student": 1444,
+            "points": 928.6
+        },
+        {
+            "index": 1,
+            "student": 799,
+            "points": 906.1
+        },
+        {
+            "index": 2,
+            "student": 1923,
+            "points": 702.0
+        }
+    ],
+    "Ribarstvo i lovstvo": [
+        {
+            "index": 0,
+            "student": 1462,
+            "points": 834.3
+        },
+        {
+            "index": 1,
+            "student": 1353,
+            "points": 822.6
+        },
+        {
+            "index": 2,
+            "student": 863,
+            "points": 821.1
+        },
+        {
+            "index": 3,
+            "student": 1141,
+            "points": 809.1
+        },
+        {
+            "index": 4,
+            "student": 777,
+            "points": 727.0
+        },
+        {
+            "index": 5,
+            "student": 1339,
+            "points": 719.0
+        },
+        {
+            "index": 6,
+            "student": 1006,
+            "points": 709.0
+        },
+        {
+            "index": 7,
+            "student": 835,
+            "points": 704.0
+        }
+    ],
+    "Ukrasno bilje": [
+        {
+            "index": 0,
+            "student": 781,
+            "points": 854.8
+        },
+        {
+            "index": 1,
+            "student": 754,
+            "points": 840.6
+        },
+        {
+            "index": 2,
+            "student": 1411,
+            "points": 838.7
+        },
+        {
+            "index": 3,
+            "student": 1079,
+            "points": 825.8
+        },
+        {
+            "index": 4,
+            "student": 1787,
+            "points": 818.8
+        },
+        {
+            "index": 5,
+            "student": 910,
+            "points": 818.4
+        },
+        {
+            "index": 6,
+            "student": 1569,
+            "points": 816.1
+        }
+    ],
+    "Vinogradarstvo i vinarstvo": [
+        {
+            "index": 0,
+            "student": 1136,
+            "points": 954.8
+        },
+        {
+            "index": 1,
+            "student": 840,
+            "points": 922.6
+        },
+        {
+            "index": 2,
+            "student": 1709,
+            "points": 900.0
+        },
+        {
+            "index": 3,
+            "student": 1067,
+            "points": 868.8
+        },
+        {
+            "index": 4,
+            "student": 1460,
+            "points": 858.1
+        },
+        {
+            "index": 5,
+            "student": 791,
+            "points": 825.0
+        },
+        {
+            "index": 6,
+            "student": 1546,
+            "points": 822.6
+        },
+        {
+            "index": 7,
+            "student": 1404,
+            "points": 819.4
+        },
+        {
+            "index": 8,
+            "student": 938,
+            "points": 818.6
+        },
+        {
+            "index": 9,
+            "student": 1340,
+            "points": 816.1
+        }
+    ],
+    "Vinogradarstvo, vinarstvo i voćarstvo": [
+        {
+            "index": 0,
+            "student": 1663,
+            "points": 870.0
+        },
+        {
+            "index": 1,
+            "student": 826,
+            "points": 843.8
+        },
+        {
+            "index": 2,
+            "student": 1102,
+            "points": 840.0
+        },
+        {
+            "index": 3,
+            "student": 1012,
+            "points": 821.9
+        }
+    ],
+    "Voćarstvo": [
+        {
+            "index": 0,
+            "student": 1434,
+            "points": 877.4
+        },
+        {
+            "index": 1,
+            "student": 1072,
+            "points": 854.8
+        }
+    ]
+}

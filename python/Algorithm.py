@@ -6,14 +6,13 @@ import Conwerther as cw
 import Faculty
 import Student
 
-
-studentList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx')
-facultyList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx','Kvote')
-
 def findFaculty(faculty, facultyArray: List[Faculty.Faculty]):
     for i in facultyArray:
         if(i.name == faculty.get('studij')):
             return i
+
+studentList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx')
+facultyList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx','Kvote')
 
 studentArray = []
 for i in studentList:
@@ -25,9 +24,6 @@ facultyArray = []
 for i in facultyList:
     facultyObject = Faculty.Faculty(i.get('Diplomski studij'), i.get('Kvota'))
     facultyArray.append(facultyObject)
-
-for i in studentArray:
-    print(i.number)
 
 while studentArray:
     student = studentArray.pop(0)
@@ -48,13 +44,17 @@ while studentArray:
                 studentList.append(removedStudent)
             break
 
-        
-# for i in facultyArray:
-#     print(i.name)
-#     for index, s in enumerate(i.acceptedStudents):
-#         print(f"{index}: \tnumber: {s.number}, points: {s.points}, faculty: {s.currentFaculty}" )
 
-
+dictionary = dict()
 for i in facultyArray:
+    dictKid = []
+    for index, s in enumerate(i.acceptedStudents):
+        row = {
 
-    print(json.dumps(i.__dict__))
+                "index": index,
+                "student": s.number,
+                "points": s.points
+            }
+        dictKid.append(row)
+        # print(f"{index}: \tnumber: {s.number}, points: {s.points}, faculty: {s.currentFaculty}" )
+    dictionary[i.name]= dictKid
