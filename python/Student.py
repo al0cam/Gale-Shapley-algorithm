@@ -1,9 +1,3 @@
-
-from operator import index, indexOf
-
-from numpy import sort
-
-
 def createPriorityList(student, studentList):
         list = []
         

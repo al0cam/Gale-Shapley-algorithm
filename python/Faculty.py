@@ -1,8 +1,3 @@
-
-from operator import indexOf
-from typing import ChainMap
-from unicodedata import numeric
-
 class Faculty:
     name = ''
     size = 0

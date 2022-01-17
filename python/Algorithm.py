@@ -1,5 +1,3 @@
-
-import json
 from time import sleep
 from typing import List
 import Conwerther as cw
@@ -13,6 +11,7 @@ def findFaculty(faculty, facultyArray: List[Faculty.Faculty]):
 
 studentList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx')
 facultyList = cw.excelToJson('MS_prijave_2021_prvi_rok.xlsx','Kvote')
+
 
 studentArray = []
 for i in studentList:
